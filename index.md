@@ -1,10 +1,10 @@
-# Azure Data Factory V1 to V2 Migration Tool
-
-Refer to https://azuredatafactoryv2.github.io/v1tov2migration/, download tool with the .msi. Stay up-to-date on new releases [here](https://github.com/azuredatafactoryv2/v1tov2migration/releases)
-
-Latest version: AzureDataFactoryMigrationTool_2.0.msi
-
 The ADF V1 to V2 Migration Tool assists in converting your V1 data factories to V2 entities. See [documentation](https://docs.microsoft.com/en-us/azure/data-factory/compare-versions) for more on the differences between V1 and V2, but ADF V2 offers richer control flow, authoring, and monitoring capabilities.
+
+![tool1](media/tool_3.JPG)
+
+![tool2](media/tool_1.JPG)
+
+![tool3](media/tool_4.JPG)
 
 # Contents
 1. [What's different in V2?](#V2different)
